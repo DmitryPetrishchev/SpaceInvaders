@@ -1,0 +1,19 @@
+{
+   "settings" : {
+      "Sys" : {
+         "texture" : {
+            "alien" : "data/alien.png",
+            "gun" : "data/gun.png",
+            "bullet" : "data/star.png",
+            "obstacle" : "data/obstacle.png"
+         }
+      },
+      "UserName" : "",
+      "WindowSize" : {
+         "height" : 600,
+         "width" : 800
+      },
+      "AlienCount" : 11,
+      "ObstaclesCount" : 5
+   }
+}
